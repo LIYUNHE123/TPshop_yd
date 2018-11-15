@@ -1,0 +1,5 @@
+# created by pytest automatically, do not change
+.idea
+.pytest_cache
+report
+__pycache__
